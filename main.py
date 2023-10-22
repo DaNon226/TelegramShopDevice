@@ -123,7 +123,7 @@ def contacts(message):
 
 🎁 Подарите себе невероятный игровой опыт с клавиатурой Razer BlackWidow V3. Она подарит вам мощь и стиль в одном флаконе. 🎁
 
-Для покупки: @Danon26
+Для покупки: @DaNon26
             '''
             bot.send_message(message.chat.id, razer_blackwidow, reply_markup=main)
         elif message.text == 'HyperX Alloy Origins Black':
@@ -153,7 +153,7 @@ def contacts(message):
 
 🎁 Подарите себе игровой опыт, который вы заслуживаете, с HyperX Alloy Origins Black. Это не просто клавиатура, это инструмент для победы. 🎁
 
-Для покупки: @Danon26
+Для покупки: @DaNon26
             '''
 
             bot.send_message(message.chat.id, hyperxalloyorigins, reply_markup=main)
